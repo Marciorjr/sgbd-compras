@@ -6,14 +6,16 @@ INSERT INTO LOCAIS_ENTREGA (
     RESPONSAVEL_RECEBIMENTO
 ) VALUES
 ('Almoxarifado Central', 'Av. Industrial, 1000', 'Natal', 'RN', 'João Oliveira'),
-('Oficina de Máquinas', 'Rod. BR-304, Km 50', 'Mossoró', 'RN', 'Maria Silva'),
-('Área de Expedição', 'Rua Logística, 350', 'Parnamirim', 'RN', 'Carlos Souza'),
-('Depósito de Insumos', 'Rua dos Insumos, 45', 'Currais Novos', 'RN', 'Renata Martins'),
-('Central de Manutenção', 'Av. das Indústrias, 600', 'Natal', 'RN', 'Fábio Oliveira'),
-('Posto de Abastecimento', 'Estrada do Petróleo, 200', 'Mossoró', 'RN', 'Bruno Lima'),
-('Setor de Engenharia', 'Rua dos Projetos, 12', 'Parnamirim', 'RN', 'Camila Barros'),
-('Área Administrativa', 'Av. Central, 200', 'Natal', 'RN', 'Tatiane Freitas'),
-('Estoque de Ferramentas', 'Rua das Ferramentas, 88', 'Mossoró', 'RN', 'Felipe Cardoso'),
-('Pátio de Máquinas', 'Rod. BR-101, Km 18', 'Parnamirim', 'RN', 'Luciana Nunes'),
-('Galpão Secundário', 'Av. Contorno, 500', 'Currais Novos', 'RN', 'Rodrigo Lopes'),
-('Recebimento de Materiais', 'Rua da Recepção, 10', 'Natal', 'RN', 'Ana Santos');
+('Oficina de Máquinas', 'Rua das Máquinas, 123', 'Natal', 'RN', 'Maria Silva'),
+('Setor de Expedição', 'Av. Central, 200', 'Natal', 'RN', 'Carlos Souza'),
+('Depósito de Insumos', 'Rua dos Insumos, 45', 'Natal', 'RN', 'Renata Martins'),
+('Estoque de Ferramentas', 'Rua das Ferramentas, 88', 'Natal', 'RN', 'Felipe Cardoso'),
+('Recebimento de Materiais', 'Rua da Recepção, 10', 'Natal', 'RN', 'Ana Santos'),
+
+('Almoxarifado de Apoio', 'Av. das Indústrias, 50', 'Tangará', 'RN', 'Bruno Lima'),
+('Oficina de Manutenção', 'Rua Projetos, 22', 'Tangará', 'RN', 'Camila Barros'),
+('Pátio de Máquinas', 'Rod. BR-226, Km 90', 'Tangará', 'RN', 'Fábio Oliveira'),
+('Área Administrativa', 'Rua Central, 77', 'Tangará', 'RN', 'Tatiane Freitas'),
+
+('Galpão Principal', 'Av. Contorno, 500', 'Belo Horizonte', 'MG', 'Rodrigo Lopes'),
+('Central de Logística', 'Rua Logística, 550', 'Belo Horizonte', 'MG', 'Lucas Andrade');
