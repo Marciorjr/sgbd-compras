@@ -1,0 +1,21 @@
+INSERT INTO FORNECEDORES (
+    NOME_EMPRESA,
+    CONTATO_RESPONSAVEL,
+    EMAIL,
+    TELEFONE,
+    CNPJ,
+    ENDERECO,
+    CIDADE,
+    ESTADO,
+    CATEGORIA_FORNECIMENTO
+) VALUES
+('Miner Peças LTDA', 'João da Silva', 'joao@minerpecas.com', '(84) 99999-1000', '12.345.678/0001-90', 'Rua das Pedras, 100', 'Natal', 'RN', 'Peças de Reposição'),
+('Translog Transportes', 'Maria Souza', 'maria@translog.com', '(84) 98888-2000', '23.456.789/0001-01', 'Avenida Central, 500', 'Mossoró', 'RN', 'Serviços de Transporte'),
+('EletroPower', 'Carlos Pereira', 'carlos@eletropower.com', '(84) 97777-3000', '34.567.890/0001-12', 'Rua Energia, 250', 'Parnamirim', 'RN', 'Material Elétrico'),
+('Topografia Alfa', 'Fernanda Lima', 'fernanda@topografiaalfa.com', '(84) 96666-4000', '45.678.901/0001-23', 'Travessa do Mapa, 75', 'Caicó', 'RN', 'Serviços de Topografia'),
+('Mega Lubrificantes', 'Paulo Mendes', 'paulo@megalubrificantes.com', '(84) 95555-5000', '56.789.012/0001-34', 'Rua do Óleo, 321', 'Natal', 'RN', 'Lubrificantes e Óleos'),
+('Construmax Equipamentos', 'Juliana Costa', 'juliana@construmax.com', '(84) 94444-6000', '67.890.123/0001-45', 'Rodovia BR-101, Km 200', 'Mossoró', 'RN', 'Máquinas e Equipamentos Pesados'),
+('ServLimpo', 'Rogério Alves', 'rogerio@servlimpo.com', '(84) 93333-7000', '78.901.234/0001-56', 'Rua da Limpeza, 456', 'Natal', 'RN', 'Serviços Terceirizados'),
+('InfoTech Solutions', 'Patrícia Dias', 'patricia@infotech.com', '(84) 92222-8000', '89.012.345/0001-67', 'Av. Tecnologia, 88', 'Parnamirim', 'RN', 'Informática e Tecnologia'),
+('AgroDiesel Distribuidora', 'Bruno Santos', 'bruno@agrodiesel.com', '(84) 91111-9000', '90.123.456/0001-78', 'Rua Combustível, 900', 'Mossoró', 'RN', 'Combustíveis'),
+('Engenharia Soluções', 'Larissa Ribeiro', 'larissa@engenharia.com', '(84) 90000-0000', '01.234.567/0001-89', 'Rua Projetos, 150', 'Natal', 'RN', 'Serviços de Engenharia');
