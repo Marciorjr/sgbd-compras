@@ -1,0 +1,21 @@
+"ID_PRODUTO";"DESCRICAO";"ID_CATEGORIA";"UNIDADE_MEDIDA";"MARCA";"PRECO_MEDIO"
+1;"Cabo de Cobre 10mm";1;"Metro";"Prysmian";7.5
+2;"Disjuntor Tripolar 40A";1;"Unidade";"Siemens";38.9
+3;"Tubo PVC 50mm";2;"Metro";"Tigre";4.2
+4;"Conexão Joelho 90º 50mm";2;"Unidade";"Amanco";2.8
+5;"Chave Combinada 19mm";3;"Unidade";"Gedore";35.0
+6;"Martelo de Borracha 450g";3;"Unidade";"Tramontina";29.9
+7;"Capacete de Segurança Classe B";4;"Unidade";"3M";25.0
+8;"Luva Nitrílica Azul";4;"Par";"Ansell";9.5
+9;"Serviço de Limpeza Industrial";5;"Serviço";"ServLimpo";1500.0
+10;"Serviço de Jardinagem Mensal";5;"Serviço";"VerdeMax";950.0
+11;"Frete Caminhão Basculante";6;"Viagem";"Translog";2000.0
+12;"Transporte de Equipamento Pesado";6;"Viagem";"Nordestec";3800.0
+13;"Revisão Mecânica de Escavadeira";7;"Serviço";"ManutMinas";3500.0
+14;"Manutenção Elétrica em Painel";7;"Serviço";"EletroServ";2100.0
+15;"Óleo Lubrificante SAE 40";8;"Litro";"Petrobras";22.0
+16;"Graxa Azul de Alta Temperatura";8;"Kg";"Texaco";18.0
+17;"Filtro Hidráulico Modelo X";9;"Unidade";"Hidromaq";180.0
+18;"Mangueira Hidráulica Alta Pressão";9;"Metro";"Hydronorte";75.0
+19;"Retroescavadeira Modelo Z";10;"Unidade";"Caterpillar";250000.0
+20;"Perfuratriz Pneumática Portátil";11;"Unidade";"Atlas Copco";78000.0
