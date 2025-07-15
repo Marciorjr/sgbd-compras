@@ -1,0 +1,19 @@
+INSERT INTO LOCAIS_ENTREGA (
+    DESCRICAO_LOCAL,
+    ENDERECO,
+    CIDADE,
+    ESTADO,
+    RESPONSAVEL_RECEBIMENTO
+) VALUES
+('Almoxarifado Central', 'Av. Industrial, 1000', 'Natal', 'RN', 'João Oliveira'),
+('Oficina de Máquinas', 'Rod. BR-304, Km 50', 'Mossoró', 'RN', 'Maria Silva'),
+('Área de Expedição', 'Rua Logística, 350', 'Parnamirim', 'RN', 'Carlos Souza'),
+('Depósito de Insumos', 'Rua dos Insumos, 45', 'Currais Novos', 'RN', 'Renata Martins'),
+('Central de Manutenção', 'Av. das Indústrias, 600', 'Natal', 'RN', 'Fábio Oliveira'),
+('Posto de Abastecimento', 'Estrada do Petróleo, 200', 'Mossoró', 'RN', 'Bruno Lima'),
+('Setor de Engenharia', 'Rua dos Projetos, 12', 'Parnamirim', 'RN', 'Camila Barros'),
+('Área Administrativa', 'Av. Central, 200', 'Natal', 'RN', 'Tatiane Freitas'),
+('Estoque de Ferramentas', 'Rua das Ferramentas, 88', 'Mossoró', 'RN', 'Felipe Cardoso'),
+('Pátio de Máquinas', 'Rod. BR-101, Km 18', 'Parnamirim', 'RN', 'Luciana Nunes'),
+('Galpão Secundário', 'Av. Contorno, 500', 'Currais Novos', 'RN', 'Rodrigo Lopes'),
+('Recebimento de Materiais', 'Rua da Recepção, 10', 'Natal', 'RN', 'Ana Santos');
