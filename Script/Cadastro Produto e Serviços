@@ -1,0 +1,17 @@
+INSERT INTO PRODUTOS_SERVICOS (
+    DESCRICAO,
+    ID_CATEGORIA,
+    UNIDADE_MEDIDA,
+    MARCA,
+    PRECO_MEDIO
+) VALUES
+('Cabo de Cobre 10mm', 1, 'Metro', 'Prysmian', 7.50),
+('Tubo PVC 50mm', 2, 'Metro', 'Tigre', 4.20),
+('Chave Combinada 19mm', 3, 'Unidade', 'Gedore', 35.00),
+('Capacete de Segurança Classe B', 4, 'Unidade', '3M', 25.00),
+('Serviço de Limpeza Industrial', 5, 'Serviço', 'ServLimpo', 1500.00),
+('Frete Caminhão Basculante', 6, 'Viagem', 'Translog', 2000.00),
+('Revisão Mecânica de Escavadeira', 7, 'Serviço', 'ManutMinas', 3500.00),
+('Óleo Lubrificante SAE 40', 8, 'Litro', 'Petrobras', 22.00),
+('Filtro Hidráulico Modelo X', 9, 'Unidade', 'Hidromaq', 180.00),
+('Retroescavadeira Modelo Z', 10, 'Unidade', 'Caterpillar', 250000.00);
